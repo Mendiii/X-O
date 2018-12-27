@@ -1,0 +1,7 @@
+C:\Users\MTNO\Desktop\X-O\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\MTNO\Desktop\X-O\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\MTNO\Desktop\X-O\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\MTNO\Desktop\X-O\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\MTNO\Desktop\X-O\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\MTNO\Desktop\X-O\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\MTNO\Desktop\X-O\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
